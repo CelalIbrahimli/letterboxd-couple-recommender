@@ -7,7 +7,7 @@ The project focuses on **compatibility, joint taste discovery, and diversity-awa
 
 ## 🚀 Live Demo
 
-👉 Hugging Face Space: **[LINK HERE]**
+👉 Hugging Face Space: **https://huggingface.co/spaces/celalibr/letterboxd-blend-recommender**
 
 Upload two Letterboxd export ZIP files and explore:
 
